@@ -12,7 +12,7 @@ This project provides a RESTful API for managing products.
 1. Clone the repository:
 
    ```shell
-   git clone <repository-url>
+   git clone https://github.com/AsifTD13/SimpleCrud.git
 
 2. Navigate to the project directory:
    
